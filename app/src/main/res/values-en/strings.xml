@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Infograma</string>
+    <string name="usuario">Username</string>
+    <string name="contrasena">Password</string>
+</resources>
